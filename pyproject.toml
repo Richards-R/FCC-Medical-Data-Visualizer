@@ -1,0 +1,14 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+description = ""
+
+[tool.poetry.dependencies]
+pandas = "*"
+python = "3.10.11"
+seaborn = "*"
+numpy = "1.25.2"
+kiwisolver = "1.4.5"
+matplotlib = "^3.8.0"
